@@ -8,22 +8,24 @@ Welcome to VitalHealth_China's documentation!
 
 .. toctree::
    :maxdepth: 2
-   :caption: Contents:Part1
+   :caption: Part1
    
    Part_1.rst
 
 .. toctree::
    :maxdepth: 2
-   :caption: Contents:Part2
+   :caption: Part2
    
    Part_2.rst
 
 .. toctree::
    :maxdepth: 2
-   :caption: Contents:Part3
+   :caption: Part3
    
-   Part_3.rst/part3.rst
-   Part3.rst/FAQ.rst
+   Part_3/part3.rst
+   Part_3/FAQ.rst
+   Part_3/Glossary.rst
+   
 
 
 
