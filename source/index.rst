@@ -9,6 +9,8 @@ Welcome to VitalHealth_China's documentation!
 .. toctree::
    :maxdepth: 2
    :caption: Contents:
+   
+   part_1.rst
 
 
 
